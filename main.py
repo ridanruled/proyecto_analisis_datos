@@ -1,3 +1,4 @@
+# Se importan dependencias.
 import csv
 import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter 
