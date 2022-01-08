@@ -324,7 +324,6 @@ def main():
         print("""
         Lista de países que generan el 80% del valor de las exportaciones e importaciones
         """)
-
         for i, pais in enumerate(paises_80_porciento):
             print(f'{i+1}. {pais}')
 
